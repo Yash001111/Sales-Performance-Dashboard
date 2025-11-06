@@ -19,14 +19,14 @@ The dashboard provides insights into:
 | File Name | Description |
 |------------|-------------|
 | `sales_performance_advanced_dataset (2).csv` | The raw dataset used to build the dashboard |
-| `Sales_Dashboard_Screenshot.jpeg` | Preview of the Power BI dashboard |
-| (Optional) `Sales_Performance.pbix` | Power BI file for further editing |
+| `Sales Performance Dashboard.jpeg` | Screenshot preview of the Power BI dashboard |
+| (Optional) `Sales_Performance.pbix` | Power BI file for further editing or exploration |
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Screenshot](WhatsApp%20Image%202025-11-05%20at%207.25.55%20PM.jpeg)
+![Sales Dashboard Screenshot](Sales%20Performance%20Dashboard.jpeg)
 
 ---
 
@@ -35,17 +35,17 @@ The dashboard provides insights into:
 - **Total Sales:** $20.08M  
 - **Total Profit:** $5.52M  
 - **Average Discount:** 12.45%  
-- The **East** region shows the highest growth trend between 2023–2024.  
-- **Shoes** have the largest profit margin among products.  
-- The **Sports** category contributes the most to total profit.
+- The **East** region shows the strongest growth trend between 2023–2024  
+- **Shoes** have the highest profit margin among all products  
+- The **Sports** category contributes the most to total profit
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Power BI** for dashboard design  
-- **Microsoft Excel / CSV** for data preprocessing  
-- **GitHub** for version control and sharing  
+- **Power BI** – for dashboard design and visualization  
+- **Microsoft Excel / CSV** – for data preparation and transformation  
+- **GitHub** – for version control and sharing the project  
 
 ---
 
