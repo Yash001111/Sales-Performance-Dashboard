@@ -20,7 +20,7 @@ The dashboard provides insights into:
 |------------|-------------|
 | `sales_performance_advanced_dataset (2).csv` | The raw dataset used to build the dashboard |
 | `Sales Performance Dashboard.jpeg` | Screenshot preview of the Power BI dashboard |
-| (Optional) `Sales_Performance.pbix` | Power BI file for further editing or exploration |
+| `Sales_Performance.pbix` | Power BI file for further editing or exploration |
 
 ---
 
@@ -51,6 +51,6 @@ The dashboard provides insights into:
 
 ## 📬 Contact
 
-Created by *[Your Name]*  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile or Portfolio Link]
+Created by *YASH TRIPATHI*  
+📧 yashtripathi7777@gmail.com  
+💼 www.linkedin.com/in/yash-tripathi-7a42a52aa
